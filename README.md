@@ -3,7 +3,7 @@
 
 깃테스트입니다.
 
-<<<<<<< HEAD
-수정함8 from local
+
+수정함9 from remote
 
 
